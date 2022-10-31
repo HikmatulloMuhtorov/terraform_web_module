@@ -1,2 +1,2 @@
-# terraform_web_module
-This is a module for vpc,alb, and asg
+# terraform-web
+This repo uses an alb and asg on your own custom vpc
